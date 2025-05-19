@@ -445,7 +445,7 @@
             "urgency": 5.0,
             "use_time_policies": false,
             "was_recommendation_modified": false,
-            "version": "0.0.1"
+            "version": "1.0.0"
         },
         {
             "adaptive_thresholding_training_window": "-7d",
@@ -610,7 +610,7 @@
             "urgency": 5.0,
             "use_time_policies": false,
             "was_recommendation_modified": false,
-            "version": "0.0.1"
+            "version": "1.0.0"
         }
     ],
     "service_tags": {
@@ -642,5 +642,5 @@
     ],
     "team_id": "default_itsi_security_group",
     "title": "Network Services",
-    "version": "0.0.1"
+    "version": "1.0.0"
 }
