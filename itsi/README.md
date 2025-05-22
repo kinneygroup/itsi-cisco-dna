@@ -1,6 +1,6 @@
 ## Summary
 
-The ITSI Content Pack for Cisco DNA from Kinney Group is designed to monitor the health and performance of enterprise networks using Cisco DNA. It leverages Splunk ITSI to provide comprehensive insights into network devices, client health, and network services, ensuring optimal network operations. This content pack is an essential tool for IT professionals aiming to enhance network reliability and performance.
+The ITSI Content Pack for Cisco DNA from Presidio Splunk Solutions is designed to monitor the health and performance of enterprise networks using Cisco DNA. It leverages Splunk ITSI to provide comprehensive insights into network devices, client health, and network services, ensuring optimal network operations. This content pack is an essential tool for IT professionals aiming to enhance network reliability and performance.
 
 * Comprehensive Network Monitoring: Offers detailed insights into network device performance, client health, and network services, enabling optimized network management.
 * Critical System Health Tracking: Monitors the real-time operational status of network devices and services, helping IT professionals swiftly identify and address potential issues.
@@ -12,7 +12,7 @@ This ITSI Content Pack is open source and available for community collaboration 
 
 The ITSI Content Pack for Cisco DNA provides service definitions and KPIs ready to import into ITSI. The KPI thresholds and importance values are set to defaults, allowing for manual tuning to fit specific use cases. This content pack helps solve network performance issues by providing detailed monitoring and analysis of network health, client health, and network services.
 
-For installation guidance, refer to the [Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/).
+For installation guidance, refer to the [Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/).
 
 ### Services
 
@@ -131,26 +131,27 @@ Some services form a hierarchy, such as Network Services depending on AAA and DH
 
 ## Troubleshooting
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
 
 [Github and Readme](https://www.github.com/kinneygroup)
 
-support@kinneygroup.com
+atlassupport@presidio.com
 
 ## Contact
 
 To provide feedback, visit our [Github and Readme](https://www.github.com/kinneygroup) for our content packs.
 
-support@kinneygroup.com
+atlassupport@presidio.com
 
-For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas)
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://atlas.presidio.com)
 
 ## Version History
 
 | Version | Date  | Description                      |
 |---------|-------|----------------------------------|
 | 0.0.1   | 10/04/2024 | Initial release of the content pack |
+| 1.0.0   | 05/19/2025 | Documentation Update |
 
 ## Considerations:
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
